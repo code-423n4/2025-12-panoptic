@@ -1,0 +1,30 @@
+node_modules
+mythx.json
+.env
+coverage
+coverage.json
+typechain
+
+metadata/out/*
+# Yarn files
+yarn-error.log
+
+#Hardhat files
+cache
+artifacts
+
+
+.idea
+tenderly.yaml
+.vs/*
+.DS_Store
+*.swp
+
+.vscode
+
+deployments
+broadcast
+out
+docs
+safe-txns
+scratch
